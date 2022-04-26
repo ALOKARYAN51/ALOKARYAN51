@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **alokaryan51@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/my-drive](https://drive.google.com/drive/my-drive)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
