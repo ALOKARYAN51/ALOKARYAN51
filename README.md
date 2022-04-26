@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Alok kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=coding%20gif&tbm=isch&tbs=rimg:CSgMsIn0-OghYQiXYHCnXDdIsgIMCgIIABAAOgQIARAA&rlz=1C1CHBF_enIN1003IN1003&hl=en&sa=X&ved=0CCcQuIIBahcKEwjYobjxq7L3AhUAAAAAHQAAAAAQBg&biw=1899&bih=902#imgrc=dbrfb5dvHO4gVM">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alokaryan51&label=Profile%20views&color=0e75b6&style=flat" alt="alokaryan51" /> </p>
 
